@@ -1,2 +1,2 @@
 These codes are written in Pythin.
-Codes are prepared for differen force values
+Codes are prepared for different force values
